@@ -15,4 +15,4 @@ echo "forth"
 echo "test"
 echo "one more test to verify creds"
 echo "checking cache featur"
-echo "checking ssh keys
+echo "checking ssh keys"
